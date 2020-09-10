@@ -1,5 +1,7 @@
 # RecommendationSystem
-Movie Recommendation System using R Programming
+## By Divya Nitin Naidu
+
+## Movie Recommendation System using R Programming
 
 As the business needs are accelerating, there is an increased dependence on extracting meaningful information from humongous amount of raw data to drive business solutions. Also, with the increase in the amount of available information, new problems arise as people are finding it hard to select the items they want to see or use. This is where the recommender system comes in. They help us make decisions by learning our preferences or by learning the preferences of similar users.
 Recommender systems are one of the most popular algorithms in data science today. They possess immense capability in various sectors ranging from entertainment to e-commerce. 
